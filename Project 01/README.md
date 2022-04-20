@@ -3,6 +3,8 @@
 ### Stage 02 - Project 1: Introduction to HTML and CSS
  
 ---
+![project 11](https://user-images.githubusercontent.com/102325966/164338463-7acc4bf3-eb0e-4328-a842-c9cde7756038.png)
+
   
 📅 **09.04.2022**
   
