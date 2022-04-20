@@ -3,7 +3,8 @@
 ### Stage 02 - Project 2: Getting to know new HTML and CSS concepts
  
 ---
-  
+![project 22](https://user-images.githubusercontent.com/102325966/164340477-bbacb5b5-52fd-4abc-a92f-bc939eeed023.png)
+
 📅 **09.04.2022**
   
 🕛 **Status:** Finished ✔️
