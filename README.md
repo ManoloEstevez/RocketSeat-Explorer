@@ -19,7 +19,7 @@ So everybody can take a look at my journey to become a WebDev aspirer 👾
 - Project 3: [Fixing a broken website](https://github.com/ManoloEstevez/RocketSeat-Explorer/tree/main/Project%2003)
 - Project 4: [Recreating static website](https://github.com/ManoloEstevez/RocketSeat-Explorer/tree/main/Project%2004)
 
-![Alt text]( "Slide Show - Screenshots from projects")
+![Alt text](https://raw.githubusercontent.com/ManoloEstevez/RocketSeat-Explorer/main/Projects-slides.gif "Slide Show - Screenshots from projects")
 
 ---
 #### Status: 🚧 In progress
